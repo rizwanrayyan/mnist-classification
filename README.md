@@ -140,10 +140,11 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 ### Confusion Matrix:
 ![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/36f5bb5f-f6cc-44df-aada-2aabea324ad9)
 
-
 ### New Sample Data Prediction:
-
-Include your sample input and output for your hand written images.
+![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/a5482476-0885-4fc3-a83f-1448955f4af5)
+![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/9a169e41-294f-4aec-86ae-641f7b253b0f)
+![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/f142289c-1cd2-4938-a8d6-63939fce6c47)
+![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/ef7568af-4ece-45cc-8945-752371d32d3e)
 
 ## RESULT:
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed successfully.
