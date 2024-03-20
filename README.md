@@ -9,8 +9,7 @@ Dataset:<br/>
 The MNIST dataset is widely recognized as a foundational resource in both machine learning and computer vision. It consists of grayscale images measuring 28x28 pixels, each depicting a handwritten digit from 0 to 9. The dataset includes 60,000 training images and 10,000 test images, meticulously labeled for model evaluation. Grayscale representations of these images range from 0 to 255, with 0 representing black and 255 representing white. MNIST serves as a benchmark for assessing various machine learning models, particularly for digit recognition tasks. By utilizing MNIST, we aim to develop and evaluate a specialized CNN for digit classification while also testing its ability to generalize to real-world handwritten images not present in the dataset.
 
 ## NEURAL NETWORK MODEL
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/ee4daf29-1167-4f33-8c24-8851a8ef812c)
-
+![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/c3f13fc2-1b61-49a1-a72d-54274b33742c)
 
 ## DESIGN STEPS
 ### STEP 1:
