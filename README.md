@@ -24,8 +24,8 @@ Train the compiled model on the preprocessed training data for 5 epochs with a b
 Evaluate the trained model's performance on the test set by plotting training/validation metrics and generating a confusion matrix and classification report. Additionally, make predictions on sample images to demonstrate model inference.
 
 ## PROGRAM:
-### Name: RITHIGA SRI.B
-### Register Number: 212221230083
+### Name: RIZWAN T
+### Register Number: 21222040134
 ```python
 import numpy as np
 from tensorflow import keras
@@ -130,20 +130,21 @@ plt.imshow(img_28_gray_inverted_scaled1.reshape(28,28),cmap='gray')
 ![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/2684544a-a072-46b3-8b4a-affbf61df885)
 
 ### Training Loss, Validation Loss Vs Iteration Plot:
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/198dd92f-5a5c-4e74-89c6-cfa86bfb7b81)
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/a45cae49-ce45-42fc-b51e-af5bae6fde64)
+![l4oqxo3a](https://github.com/user-attachments/assets/4d137161-3a04-4f75-ab2c-654113619520)
+![n6juo6lb](https://github.com/user-attachments/assets/14dcf2dc-2bf1-4440-9c7c-bf59678efda0)
+
 
 ### Classification Report:
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/cb25da16-b52f-4201-9631-68d78e09edde)
+![lz00aypk](https://github.com/user-attachments/assets/eaf158ff-aba7-4617-b46e-fefa8f5ca08f)
 
 ### Confusion Matrix:
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/36f5bb5f-f6cc-44df-aada-2aabea324ad9)
+![d64mrthn](https://github.com/user-attachments/assets/dadb8563-3ae3-46a4-a763-18db0b68c516)
 
 ### New Sample Data Prediction:
 ![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/a5482476-0885-4fc3-a83f-1448955f4af5)
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/9a169e41-294f-4aec-86ae-641f7b253b0f)
+![v5e1tl6u](https://github.com/user-attachments/assets/2df15c75-51a4-4c25-a050-6192dc60583f)
 ![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/f142289c-1cd2-4938-a8d6-63939fce6c47)
-![image](https://github.com/Rithigasri/mnist-classification/assets/93427256/ef7568af-4ece-45cc-8945-752371d32d3e)
+![c7e1sqck](https://github.com/user-attachments/assets/e6da819a-6d97-4236-bca8-8323b5c30d10)
 
 ## RESULT:
 Thus, a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is developed successfully.
